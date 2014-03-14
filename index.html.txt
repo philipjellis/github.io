@@ -1,0 +1,26 @@
+<html>
+  <head>
+    <title>Phil Ellis GitHub Page</title>
+  </head>
+  <body bgcolor=white>
+
+    <table border="0" cellpadding="10">
+      <tr>
+        <td>
+          <img src="pics/FredAndMe.jpg">
+        </td>
+        <td>
+          <h1>And here is a picture</h1>
+        </td>
+      </tr>
+    </table>
+
+    <p>THis might be a blog one day </p>
+    <p>And her might be two links
+    <ul>
+      <li>To a <a href="hello.jsp">JSP page</a>.
+      <li>To a <a href="hello">servlet</a>.
+    </ul>
+
+  </body>
+</html>
